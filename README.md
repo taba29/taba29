@@ -3,13 +3,13 @@
   <a href="https://mutsumonji-frontend-astro.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-0ea5e9?style=flat&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:tabaanother@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 - Website: https://mutsumonji-frontend-astro.onrender.com
 
-- Email: yourmail@example.com
+- Email: tabaanother@gmail.com
   
 ## 🧰 Tech Stack
 
