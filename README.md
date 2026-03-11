@@ -1,7 +1,5 @@
 <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taba29&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=8" />
-## 🧰 Tech Stack
-
-### Core
+### Tech Stack Core
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,7 +12,7 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge)
 ![Canvas](https://img.shields.io/badge/Canvas-222222?style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-### Tools
+### Tech Stack Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,unity" />
