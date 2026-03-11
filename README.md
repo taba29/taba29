@@ -29,6 +29,3 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-- Website: https://mutsumonji-frontend-astro.onrender.com
-
-- Email: tabaanother@gmail.com
