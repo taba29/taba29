@@ -13,11 +13,13 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge)
 ![Canvas](https://img.shields.io/badge/Canvas-222222?style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-### Tech Stack Tools
+## Tech Stack Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,unity" />
-</p>
+![Git](https://img.shields.io/badge/Git-Tool-informational?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Tool-informational?style=for-the-badge)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-Editor-informational?style=for-the-badge)
+![Android%20Studio](https://img.shields.io/badge/Android%20Studio-IDE-informational?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-Engine-informational?style=for-the-badge)
 
 ## 🌐 Links
 
